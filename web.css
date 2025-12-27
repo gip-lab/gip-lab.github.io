@@ -1,10 +1,8 @@
 body {
   background-color: pink;
-  color: white;
+  color: black;
   font-family: Verdana;
 }
-<head>
-<style>
 .button {
   background-color: #04AA6D;
   border: none;
@@ -17,5 +15,3 @@ body {
   margin: 4px 2px;
   cursor: pointer;
 }
-</style>
-</head>
