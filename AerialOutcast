@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Giselle Petrie portfolio</title>
+    <!-- My portfolio website. -->
+    <link href="/web.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+ <body>
+   <a href="/">Home</a>
+   <a href="Aboutme">About me</a>
+   <a href="Games">Games</a>
+   <a href="Development">Development</a>
+   <a href="Contact">Contact</a>  
+   <a href="Artportfolio">Art portfolio</a>
+   <a href="Musicportfolio">Music portfolio</a>
+   <h1>Aerial Outcast</h1>
+   <p>Rites of  Ragna is a contemporary Norse turn-based RPG. 
+     Play as Ragna, the living incarnation of Ragnarok, as she hunts down the snow-goddess Skahdi to free Loki from captivity.
+     You will utilise mythical tools and ancient runes to conduct forbidden rituals in the midst of combat. 
+     All to execute powerful effects, though they always come with a cost...
+     
+   <p>This is a turn-based RPG I made with my second-year team at university. It is based off of Norse mythology.</p>
+   <p><a href="https://teeamhex.itch.io/rites-of-ragna">Itch.io page</p>
+</html>
