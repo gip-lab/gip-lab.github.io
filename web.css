@@ -3,11 +3,6 @@ body {
   color: white;
   font-family: Verdana;
 }
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
 
 button:hover {
   animation: pulse 1s infinite; /* Play the pulse animation continuously on hover */
