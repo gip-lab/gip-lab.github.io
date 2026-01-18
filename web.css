@@ -20,7 +20,7 @@ button:hover {
   animation: pulse 1s infinite; /* Play the pulse animation continuously on hover */
 }
 
-.button {
+button {
   background-color: #007bff;
   border: 10px;
   color: white;
