@@ -20,9 +20,6 @@ h2{
   100% { transform: scale(1); }
 }
 
-button:hover {
-  animation: pulse 1s infinite; /* Play the pulse animation continuously on hover */
-}
 button {
   background-color: #cc3300;
   border: 15px;
@@ -36,3 +33,6 @@ button {
   cursor: pointer;
 }
 
+button:hover {
+  animation: pulse 1s infinite; /* Play the pulse animation continuously on hover */
+}
