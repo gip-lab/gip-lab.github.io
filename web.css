@@ -23,3 +23,16 @@ h2{
 button:hover {
   animation: pulse 1s infinite; /* Play the pulse animation continuously on hover */
 }
+button {
+  background-color: #cc3300;
+  border: 10px;
+  color: black;
+  padding: 15px 70px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
