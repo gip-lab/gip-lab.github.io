@@ -16,6 +16,9 @@ h1{
 h2{
   text-align: center;
 }
+img {
+  text-align: center;
+}
 @keyframes pulse {
   0% { transform: scale(1); }
   50% { transform: scale(1.1); }
