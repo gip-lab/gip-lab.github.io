@@ -24,6 +24,12 @@ img {
   margin-right: auto;
   width: 50%;
 }
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} 
 @keyframes pulse {
   0% { transform: scale(1); }
   50% { transform: scale(1.1); }
