@@ -24,9 +24,9 @@ img {
   margin-right: auto;
 }
  .center {
+  text-align: center;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  
 } 
 @keyframes pulse {
   0% { transform: scale(1); }
