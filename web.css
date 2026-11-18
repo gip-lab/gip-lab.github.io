@@ -18,12 +18,13 @@ h2{
 }
 img {
   text-align: center;
-  img-align: centre;
+  img-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
  .center {
+  text-align: center;
   display: flex;
   margin-left: 10%;
   margin-right: 10%;
